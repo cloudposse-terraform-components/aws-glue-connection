@@ -5,7 +5,7 @@ tags:
   - provider/aws
 ---
 
-# Component: `glue`
+# Component: `glue-connection`
 
 This component provisions Glue connections.
 
