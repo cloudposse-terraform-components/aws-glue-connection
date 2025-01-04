@@ -5,5 +5,3 @@ repository:
   description: This component provisions Glue connections
   homepage: https://cloudposse.com/accelerate
   topics: terraform, terraform-component
-
-
